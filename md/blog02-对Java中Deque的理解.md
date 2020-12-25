@@ -17,5 +17,6 @@ http://fuseyism.com/classpath/doc/java/util/Deque-source.html
 #### 什么场景下需要用到双端队列呢？？
 - 滑动窗口
 - 他是Stack的推荐实现 
-- `Deque<Integer> queue = new ArrayDeque<>();`
+   - `Deque<Integer> stack = new ArrayDeque<>();`
+   - `class Stack<E> extends Vector<E>` Vector加了synchronized
 

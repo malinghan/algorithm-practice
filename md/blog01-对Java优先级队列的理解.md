@@ -75,3 +75,8 @@ PriorityQueue<Query> queue = new PriorityQueue<>(k,
     -  size--
     -  取queue第零个`E result = (E) queue[0];
     -  去除queue的尾部记为x,然后`siftDown(0, x)` //从头部往下层
+    
+    
+## 堆
+
+- [binary-heap的实现](https://www.geeksforgeeks.org/binary-heap/)    
