@@ -1,12 +1,12 @@
 ### 哈希表、映射、集合
-- [ ] [242. 有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/description/)
+- [X] [242. 有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/description/)
 - [ ] [49. 字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/)
 - [ ] [1. 两数之和](https://leetcode-cn.com/problems/two-sum/description/)
-- [ ] [养成精品代码收集习惯](https://shimo.im/docs/R6g9WJV89QkHrDhr/read)
+- [X] [养成精品代码收集习惯](https://shimo.im/docs/R6g9WJV89QkHrDhr/read)
 
 
 ### 树、二叉树、二叉搜索树
-- [ ] [二叉搜索树 Demo](https://visualgo.net/zh/bst)
+- [X] [二叉搜索树 Demo](https://visualgo.net/zh/bst)
 - [ ] [二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)
 - [ ] [144. 二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)
 - [ ] [590. N 叉树的后序遍历](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/)
@@ -17,7 +17,7 @@
 ### 堆和二叉堆
 - [ ] [堆-维基百科](https://en.wikipedia.org/wiki/Heap_(data_structure))
 - [ ] [堆的实现](https://shimo.im/docs/Lw86vJzOGOMpWZz2/read)
-- [ ] [剑指 Offer 40. TopK 问题](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/)
+- [X] [剑指 Offer 40. TopK 问题](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/)
 - [ ] [滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/)
 - [ ] [实现一个堆排序](https://www.geeksforgeeks.org/heap-sort/)
 - [ ] [264. 丑数 II](https://leetcode-cn.com/problems/ugly-number-ii/)
