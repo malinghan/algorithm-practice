@@ -1,11 +1,11 @@
 ### 泛型递归、树的递归
 
 - [X] [递归代码模板](https://shimo.im/docs/EICAr9lRPUIPHxsH/read)
-- [ ] [爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)
-- [ ] [22. 括号生成](https://leetcode-cn.com/problems/generate-parentheses/)
-- [ ] [226. 翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/description/)
-- [ ] [98. 验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/)
-- [ ] [104. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)
+- [X] [爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)
+- [X] [22. 括号生成](https://leetcode-cn.com/problems/generate-parentheses/)
+- [X] [226. 翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/description/)
+- [X] [98. 验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/)
+- [X] [104. 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)
 - [ ] [111. 二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/)
 - [ ] [297. 二叉树的序列化与反序列化](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/)
 - [ ] [236. 二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)
