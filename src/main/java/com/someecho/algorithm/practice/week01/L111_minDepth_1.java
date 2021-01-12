@@ -41,7 +41,7 @@ public class L111_minDepth_1 {
     }
     
     /**
-     * 方法2: dfs+剪枝
+     * 方法2: dfs+前序遍历？？？
      *
      * 如果left不为空，才遍历left
      * 如果left不为空，才遍历right

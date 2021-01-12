@@ -71,4 +71,26 @@ public class L104_maxDepth_1 {
     }
     
     
+    /**
+     *
+     * @param root
+     * @return
+     */
+    public int  maxDepth3(TreeNode root){
+        return maximum_depth(root,0,-1);
+    }
+    
+    public int maximum_depth(TreeNode root, int depth,int max) {
+        if (root == null) {
+            return 0;
+        }
+        if (root.left == null && root.right == null) {
+            max = Math.max(depth, max);
+        }
+        maximum_depth(root.left, depth + 1,max);
+        maximum_depth(root.right, depth + 1,max);
+        return max;
+    }
+    
+    
 }
