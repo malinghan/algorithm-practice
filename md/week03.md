@@ -44,7 +44,6 @@
 
 
 ### 分治、回溯
-
 - [X] [分治代码模板](https://shimo.im/docs/zvlDqLLMFvcAF79A/read)
 - [X] [22. 括号生成](https://leetcode-cn.com/problems/generate-parentheses/)
 - [ ] [回溯思想](https://www.geeksforgeeks.org/backtracking-introduction/)
@@ -79,3 +78,11 @@ private static int divide_conquer(Problem problem,param){
   return result;
 }
 ```
+
+### 作业提交
+#### 代码
+- [代码](/java/com/someecho/algorithm/practice/week01)
+
+### 笔记
+- [blog12-回溯法的解题模板](/md/blog12-回溯法的解题模板.md)
+- [L50-快速幂算法](/md/L50-快速幂算法.md)
