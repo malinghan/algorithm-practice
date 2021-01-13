@@ -90,7 +90,7 @@ private static int divide_conquer(Problem problem,param){
 - 全排列 II （亚马逊、字节跳动、Facebook 在半年内面试中考过）
 ```
 #### 代码
-- [代码](/java/com/someecho/algorithm/practice/week01)
+- [代码](/src/main/java/com/someecho/algorithm/practice/week01)
 
 ### 笔记
 - [blog12-回溯法的解题模板](/md/blog12-回溯法的解题模板.md)
