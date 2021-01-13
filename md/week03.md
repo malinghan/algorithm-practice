@@ -46,17 +46,17 @@
 ### 分治、回溯
 
 - [X] [分治代码模板](https://shimo.im/docs/zvlDqLLMFvcAF79A/read)
-- [ ] [22. 括号生成](https://leetcode-cn.com/problems/generate-parentheses/)
+- [X] [22. 括号生成](https://leetcode-cn.com/problems/generate-parentheses/)
 - [ ] [回溯思想](https://www.geeksforgeeks.org/backtracking-introduction/)
 - [ ] [回溯算法套路详解](https://zhuanlan.zhihu.com/p/93530380)  
-- [ ] [77. 组合](https://leetcode-cn.com/problems/combinations/)
-- [ ] [46. 全排列](https://leetcode-cn.com/problems/permutations/)
-- [ ] [47. 全排列II](https://leetcode-cn.com/problems/permutations-ii/)
-- [ ] [50. Pow(x, n)](https://leetcode-cn.com/problems/powx-n/)
-- [ ] [78. 子集](https://leetcode-cn.com/problems/subsets/)
-- [ ] [169. 众数](https://leetcode-cn.com/problems/majority-element/description/)
-- [ ] [17. 电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/) 
-- [ ] [51. N 皇后](https://leetcode-cn.com/problems/n-queens/)
+- [X] [77. 组合](https://leetcode-cn.com/problems/combinations/)
+- [X] [46. 全排列](https://leetcode-cn.com/problems/permutations/)
+- [X] [47. 全排列II](https://leetcode-cn.com/problems/permutations-ii/)
+- [X] [50. Pow(x, n)](https://leetcode-cn.com/problems/powx-n/)
+- [X] [78. 子集](https://leetcode-cn.com/problems/subsets/)
+- [X] [169. 众数](https://leetcode-cn.com/problems/majority-element/description/)
+- [X] [17. 电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/) 
+- [X] [51. N 皇后](https://leetcode-cn.com/problems/n-queens/)
 
 #### 分治代码模板
 

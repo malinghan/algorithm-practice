@@ -1,5 +1,6 @@
 ### 参考
 - [回溯算法的套路](https://zhuanlan.zhihu.com/p/93530380)
+- [全排列题目解答](https://leetcode-cn.com/problems/permutations/solution/hui-su-suan-fa-by-powcai-2/)
 #### 回溯法框架
 ```
 result = []
