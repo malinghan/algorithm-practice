@@ -42,3 +42,10 @@
 1. 目标函数单调性
 2. 存在上下界(bounded)
 3. 能够通过索引访问(index accessible)
+
+### 作业提交
+
+#### 代码
+- [代码](/src/main/java/com/someecho/algorithm/practice/week01)
+
+### 笔记

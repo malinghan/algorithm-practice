@@ -35,3 +35,10 @@
 - 树的面试题解法一般都是递归，为什么？
 
 - 自己画一下有向有权图?
+
+### 作业提交
+
+#### 代码
+- [代码](/src/main/java/com/someecho/algorithm/practice/week01)
+
+### 笔记
