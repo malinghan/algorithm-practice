@@ -1,13 +1,12 @@
 package com.someecho.algorithm.practice.week01;
 
-import base.JsonUtil;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
-import java.util.HashMap;
 import java.util.List;
-import java.util.Map;
+
+import base.JsonUtil;
 
 /**
  * @author : linghan.ma
@@ -29,7 +28,6 @@ public class L15ThreeSum_1 {
     public static void main(String[] args) {
         int[] nums = {-1, 0, 1, 2, -1, -4};
         List<List<Integer>> res = new L15ThreeSum_1().threeSum2(nums);
-        System.out.println(JsonUtil.toJson(res));
     }
     
     //方法1. 三重循环

@@ -29,8 +29,6 @@ public class G4DailyTempture_1 {
         int[] T = {13, 14, 15, 11, 9, 12, 16, 13};
         int[] res = new G4DailyTempture_1().dailyTemperatures(T);
         int[] res1 = new G4DailyTempture_1().dailyTemperatures1(T);
-        System.out.println(JsonUtil.toJson(res));
-        System.out.println(JsonUtil.toJson(res1));
     }
     
     /**
