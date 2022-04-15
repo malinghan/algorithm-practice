@@ -30,7 +30,10 @@ public class G1SelectRestaurant_1 {
     public static void printList(int[] list){
         System.out.print("[");
         for (int i = 0; i < list.length; i++) {
-            System.out.print(list[i]+",");
+            System.out.print(list[i]);
+            if (i < list.length-1) {
+               System.out.print(",");
+            }
         }
         System.out.print("]");
     }
